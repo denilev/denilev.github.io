@@ -4,8 +4,8 @@ author:
   name: "Денис"
   link: https://github.com/cotes2020
 date: 2022-01-19 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+categories: [Справка, Руководство]
+tags: [написание]
 render_with_liquid: false
 ---
 
