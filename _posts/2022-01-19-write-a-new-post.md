@@ -232,10 +232,6 @@ image:
 ---
 ```
 
-Except for `alt`, all other options are necessary, especially the `width` and `height`, which are related to user experience and web page loading performance. The above section "[Size](#size)" also mentions this.
-
-Starting from _Chirpy v5.0.0_, the attributes `height` and `width` can be abbreviated: `height` → `h`, `width` → `w`. In addition, the [`img_path`](#image-path) can also be passed to the preview image, that is, when it has been set, the  attribute `src` only needs the image file name.
-
 ## Закрепленные посты
 
 Вы можете закрепить одно или несколько сообщений в верхней части главной страницы, при этом закрепленные сообщения будут отсортированы в обратном порядке по дате их выхода. Включить это так:
