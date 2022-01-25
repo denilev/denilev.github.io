@@ -23,7 +23,7 @@ render_with_liquid: false
 ---
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [Топ_Категория, Под_Категория]
 tags: [TAG]     # ТЕГИ всегда должны быть в нижнем регистре
 ---
 ```
