@@ -1,7 +1,7 @@
 ---
 title: "Как Писать Новый Пост"
 author:
-  name: Cotes Chung
+  name: "Денис"
   link: https://github.com/cotes2020
 date: 2022-01-19 14:10:00 +0800
 categories: [Blogging, Tutorial]
