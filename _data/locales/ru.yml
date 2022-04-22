@@ -13,18 +13,18 @@ tabs:
   home: Домой
   categories: Категории
   tags: Теги
-  archives: Архивы
-  about: О
+  archives: Архив
+  about: О сайте
 
 # the text displayed in the search bar & search results
 search:
   hint: поиск
   cancel: Отменить
-  no_results: Упс! Результат не найден.
+  no_results: Ох! Ничего не найдено.
 
 panel:
-  lastmod: Последние Обновления
-  trending_tags: Теги
+  lastmod: Недавно обновлено
+  trending_tags: Популярные теги
   toc: Содержание
 
 #  The liquid date format › http://strftime.net/
@@ -60,7 +60,7 @@ not_found:
 
 post:
   written_by: Автор
-  posted: Опубликовано
+  posted: Время публикации
   updated: Обновлено
   timeago:
     day: дней назад
@@ -75,10 +75,10 @@ post:
   relate_posts: Читать далее
   share: Поделиться
   button:
-    next: Новее
-    previous: Старше
+    next: Следующая публикация
+    previous: Предыдущая публикация
     copy_code:
-      succeed: Скопировано!
+      succeed: Скопировано успешно!
     share_link:
       title: Копировать ссылку
       succeed: Ссылка скопирована успешно!
