@@ -7,7 +7,7 @@ categories: [Публикации]
 tags: [осознание]
 pin: true
 image:
-  src: /cdncontent/Bali.jpg        
+  src: penetrating-quality-awareness.jpg        
   width: 800
   height: 500
 ---
