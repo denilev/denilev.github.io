@@ -22,13 +22,14 @@ image:
 ---
 ```
 
+
 Чтобы добавить картинку в публикацию нужно залить её в репозиторий cdn, в папку pic, и как путь указать только её название + расширение.
 
 ```
 https://cdn.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 https://cdn.jsdelivr.net/gh/GHuser/repo/folder/file.jpg
 ```
-чтобы обновить кеш CDN хранилища нужно заменить в ссылке `cdn` на `purge` как в примере ниже:
+Чтобы обновить кеш CDN хранилища нужно заменить в ссылке `cdn` на `purge` как в примере ниже:
 ```
 https://cdn.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 https://purge.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
