@@ -9,7 +9,7 @@ tags: [типографика]
 math: true
 mermaid: true
 image:
-  src: /cdncontent/devices-mockup.png
+  src: devices-mockup.png
   width: 800
   height: 500
 ---
@@ -112,34 +112,34 @@ image:
 
 - По умолчанию (с надписью)
 
-![Desktop View](/cdncontent/mockup.png){: width="972" height="589" }
+![Desktop View](mockup.png){: width="972" height="589" }
 _Выравнивание по всей ширине экрана и по центру_
 
 <br>
 
 - Тень
 
-![Window shadow](/cdncontent/window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
+![Window shadow](window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
 _эффект тени (виден в режиме света)_
 
 <br>
 
 - Выровненные по левому краю
 
-![Desktop View](/cdncontent/mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
+![Desktop View](mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
 
 <br>
 
 - Влево
 
-  ![Desktop View](/cdncontent/mockup.png){: width="972" height="589" style="max-width: 200px" .left}
+  ![Desktop View](mockup.png){: width="972" height="589" style="max-width: 200px" .left}
    " Часто бывает так, что смысл текста не имеет большого значения, а важен только его объем или структура. Генератор текста онлайн позволит задать необходимое количество слов, из которых будут сформировано указанное Вами число абзацев. Правда, смысл сгенерированный текст иметь не будет, но ведь этого нам и не требуется! Бессмысленный текст используется для заполнения пространства. Классическая проза, бизнес, юмор и многие другие темы. "
 
 <br>
 
 - Вправо
 
-  ![Desktop View](/cdncontent/mockup.png){: width="972" height="589" style="max-width: 200px" .right}
+  ![Desktop View](mockup.png){: width="972" height="589" style="max-width: 200px" .right}
   " Часто бывает так, что смысл текста не имеет большого значения, а важен только его объем или структура. Генератор текста онлайн позволит задать необходимое количество слов, из которых будут сформировано указанное Вами число абзацев. Правда, смысл сгенерированный текст иметь не будет, но ведь этого нам и не требуется! Бессмысленный текст используется для заполнения пространства. Классическая проза, бизнес, юмор и многие другие темы. "
 
 <br>
