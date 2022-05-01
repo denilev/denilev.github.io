@@ -6,6 +6,10 @@ author:
 date: 2022-01-19 14:10:00 +0800
 categories: [Справка, Руководство]
 tags: [написание]
+image:
+  src: write_a_new_post.jpg
+  width: 800
+  height: 500
 render_with_liquid: false
 ---
 
