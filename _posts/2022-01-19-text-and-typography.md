@@ -9,7 +9,7 @@ tags: [типографика]
 math: true
 mermaid: true
 image:
-  src: devices-mockup.png
+  src: markdown.png
   width: 800
   height: 500
 ---
