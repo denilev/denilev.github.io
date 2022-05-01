@@ -1,5 +1,8 @@
 ---
 title: "Шаблон Нового Поста"
+author:
+  name: "Денис"
+  link: https://github.com/denilev
 date: 2022-01-19 14:10:00 +0800
 categories: [Справка, Демо]
 tags: [шаблон]
