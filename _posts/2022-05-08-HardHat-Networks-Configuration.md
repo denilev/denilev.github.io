@@ -5,10 +5,10 @@ author:
   link: https://github.com/denilev
 date: 2022-05-08 21:50:00 +0300
 categories: [Solidity]
-tags: [work environment]
+tags: [рабочая среда]
 ---
 
-Копии файлов HardHat `hardhat.config.ts` для быстрой настройки различных сетей. `+Основные комманды`.
+Копии файлов HardHat `hardhat.config.ts` для быстрой настройки различных сетей. +Основные комманды консоли для компиляции, деплоя, верификации, очистки.
 
 ### Mumbai
 
@@ -97,7 +97,12 @@ npx hardhat compile
 npx hardhat run scripts/deploy.ts --network rinkeby
 ```
 
-верификация rjynhfrnf
+верификация смартконтракта
 ```
 npx hardhat verify --network mainnet DEPLOYED_CONTRACT_ADDRESS
+```
+
+Верификация в командной строке с передачей аргументов:
+```shell
+npx hardhat verify --network rinkeby 0x92B7141527ce02576446c922e6a1bA176B199C88 Mahoori MHR ipfs://QmeJ88g5bir68WAYBE6qxgj3f3JEmjhrKhmbohR5Qc6aSy/
 ```
