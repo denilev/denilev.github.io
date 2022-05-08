@@ -8,8 +8,8 @@ categories: [Solidity]
 tags: [work environment]
 ---
 
-Копии файлов HardHat hardhat.config.ts для быстрой настройки различных сетей. + Основные комманды.
-<br><br><br>
+Копии файлов HardHat `hardhat.config.ts` для быстрой настройки различных сетей. `+Основные комманды`.
+
 ### Mumbai
 
 hardhat.config.ts
