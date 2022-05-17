@@ -23,7 +23,7 @@ timezone: Europe/Moscow
 
 title: ДенисоиД                         # the main title
 
-tagline: презентации профессионального письма <br> или план по захвату мира  # it will display as the sub-title
+tagline: презентации профессионального письма <br> или <br> план по захвату мира  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
