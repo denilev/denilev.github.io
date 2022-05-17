@@ -30,12 +30,13 @@ image:
 
 Где посмотреть в эксплорере функцию транзакции (что происходит) :
 клик на хеш, вкладка Overview, Click to see More, Input Data:
-
+```solidity
 ApeSwap
 Function: swapExactTokensForETH(uint256 amountIn, uint256 amountOutMin, address[] path, address to, uint256 deadline) ***
 
 QuickSwap:
 Function: swapExactETHForTokens(uint256 amountOutMin, address[] path, address to, uint256 deadline)
+```
 
 ```python
 from web3 import Web3
