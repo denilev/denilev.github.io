@@ -322,7 +322,7 @@ https://cdn.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 https://purge.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 ```
 
-### Подробная нструкция по добавлению картинки или любого файла в CDN хранилище:
+### Инструкция по добавлению изображения/файла в CDN хранилище:
 
 1. Загрузить картинку в репозиторий CDN, в папку pic или nft на github:
 ```
