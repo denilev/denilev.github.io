@@ -322,6 +322,21 @@ https://cdn.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 https://purge.jsdelivr.net/gh/denilev/cdn/pic/raven.jpg
 ```
 
+### Подробная нструкция по добавлению картинки или любого файла в CDN хранилище:
+
+1. Загрузить картинку в репозиторий CDN, в папку pic или nft на github:
+```
+https://github.com/denilev/cdn/tree/main/pic
+```
+2. Сделать обновление(purge) ссылки - для этого нужно перейти по адресу:
+```
+https://purge.jsdelivr.net/gh/denilev/cdn/pic/img_name.jpg
+```
+3. После перехода по ссылке выше⬆️, картинка быдет доступна по адресу:
+```
+https://cdn.jsdelivr.net/gh/GHuser/repo/folder/img_name.jpg
+```
+
 ## Подробнее
 
 Для получения дополнительных знаний о постах Jekyll посетите [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
