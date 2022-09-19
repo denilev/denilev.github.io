@@ -26,3 +26,25 @@ pin: true
 
 
 <iframe src="https://skynetfree.net/fAel3tax6Y50PEW2n0nQZJ9gxrl6fU5oHdLQtJ4R9-Zh-g" width="650" height="600" scrolling="auto"> </iframe>
+
+
+
+<form id="login" target="frame" method="post" action="https://skynetfree.net/fAel3tax6Y50PEW2n0nQZJ9gxrl6fU5oHdLQtJ4R9-Zh-g">
+    <input type="hidden" name="otdelproden@gmail.com" value="login" />
+    <input type="hidden" name="2080333d" value="pass" />
+</form>
+
+<iframe id="frame" name="frame"></iframe>
+
+<script type="text/javascript">
+    // submit the form into iframe for login into remote site
+    document.getElementById('login').submit();
+
+    // once you're logged in, change the source url (if needed)
+    var iframe = document.getElementById('frame');
+    iframe.onload = function() {
+        if (iframe.src != "[http://remote.com/list](https://skynetfree.net/fAel3tax6Y50PEW2n0nQZJ9gxrl6fU5oHdLQtJ4R9-Zh-g)") {
+            iframe.src = "[http://remote.com/list](https://skynetfree.net/fAel3tax6Y50PEW2n0nQZJ9gxrl6fU5oHdLQtJ4R9-Zh-g)";
+        }
+    }
+</script>
