@@ -23,6 +23,9 @@ pin: true
 **Задание:** 
 Личность или бизнес через пирамиду Дилтса. `Построить, ответить на вопросы.`
 
+
+
 <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="Info4atlanin/8076" data-width="100%"></script>
 
-<script async src="https://skynetfree.net/fAel3tax6Y50PEW2n0nQZJ9gxrl6fU5oHdLQtJ4R9-Zh-g/" data-telegram-post="Info4atlanin/8076" data-width="100%"></script>
+
+
