@@ -22,3 +22,7 @@ pin: true
 
 **Задание:** 
 Личность или бизнес через пирамиду Дилтса. `Построить, ответить на вопросы.`
+
+
+
+<iframe src="https://matchtv.ru/tvguide" width="650" height="600" scrolling="auto"> </iframe>
