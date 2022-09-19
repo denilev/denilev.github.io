@@ -22,19 +22,3 @@ pin: true
 
 **Задание:** 
 Личность или бизнес через пирамиду Дилтса. `Построить, ответить на вопросы.`
-
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3563" data-width="100%"></script>
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3564" data-width="100%"></script>
-
-<a href="https://telegram.me/share/url?url=[atmospheric_blackmetal/3564](https://t.me/atmospheric_blackmetal/3564O/fdrykkja - 2019 - Gryningsvisor (WEB)[FLAC].zip)&text=blackmetal">Telegram</a>
-
-<a href="https://telegram.me/share/url?url=https://t.me/atmospheric_blackmetal/3564&text=blackmetal">Telegram</a>
-
-<a href="https://t.me/atmospheric_blackmetal/3564O/fdrykkja - 2019 - Gryningsvisor (WEB)[FLAC].zip?dl=1">Telegram</a>
-
-
-<a href="https://t.me/atmospheric_blackmetal/3564O/fdrykkja%20-%202019%20-%20Gryningsvisor%20(WEB)[FLAC].zip?dl=1">Telegram</a>
-
-
