@@ -22,3 +22,8 @@ pin: true
 
 **Задание:** 
 Личность или бизнес через пирамиду Дилтса. `Построить, ответить на вопросы.`
+
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3563" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3564" data-width="100%"></script>
