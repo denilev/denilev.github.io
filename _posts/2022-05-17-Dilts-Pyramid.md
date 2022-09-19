@@ -27,3 +27,10 @@ pin: true
 <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3563" data-width="100%"></script>
 
 <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="atmospheric_blackmetal/3564" data-width="100%"></script>
+
+<a href="https://telegram.me/share/url?url=[atmospheric_blackmetal/3564](https://t.me/atmospheric_blackmetal/3564)&text=blackmetal">Telegram</a>
+
+<a href="https://telegram.me/share/url?url=https://t.me/atmospheric_blackmetal/3564&text=blackmetal">Telegram</a>
+
+<a href="https://telegram.me/share/url?url=atmospheric_blackmetal/3564&text=blackmetal">Telegram</a>
+
