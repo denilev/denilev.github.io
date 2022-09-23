@@ -23,7 +23,7 @@ timezone: Europe/Moscow
 
 title: Anima Sanator                         # the main title
 
-tagline: эффективные технологии для улучшения жизни  # it will display as the sub-title
+tagline: эффективные технологии эволюция жизни  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
