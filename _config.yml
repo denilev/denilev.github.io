@@ -21,9 +21,9 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ДенисоиД                         # the main title
+title: Anima Sanator                         # the main title
 
-tagline: презентации профессионального письма  # it will display as the sub-title
+tagline: использовать самые эффективные технологии чтобы сделать жизнь лучше  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
